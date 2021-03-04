@@ -16,8 +16,11 @@ scipy = "*"
 seaborn = "*"
 xgboost = "*"
 requests = "*"
+shap = "*"
+datetime = "*"
+chart-studio = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.8.7"
